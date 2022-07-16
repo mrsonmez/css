@@ -1,0 +1,27 @@
+.container{
+    margin:25px;
+}
+.left-bar{
+    width:200px;
+    float:left;
+}
+.content{
+    text-align: center;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.footercontent{
+background-color: #7EE5DA;
+width:400px ;
+height:80px;
+float: left;
+text-align: center;
+margin-right: 2px;
+margin-top:2px
+}
+li{
+    list-style-type: none;
+}
